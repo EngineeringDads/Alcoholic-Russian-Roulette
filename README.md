@@ -1,5 +1,7 @@
 Full project video can be found at: https://youtu.be/Ek4EhuD-6MM
 
+[![Alcoholic Russian Roulette Gun](https://raw.githubusercontent.com/EngineeringDads/Alcoholic-Russian-Roulette/main/Images/received_2897660557159924.webp)](https://youtu.be/Ek4EhuD-6MM "Alcoholic Russian Roulette Gun")
+
 # :gun: Alcoholic Russian Roulette :cocktail:
 
 Modified version of the alcohol shot gun. It's a game inspired by the traditional russian roulette, with a slight kink. The game uses an arduino nano to select a random player/s in a game where an alcohol shot in loaded. When it is the selected players turn, a piezo buzzer indicates that player is receiving the shot, before a servo motor pulls the trigger of the gun. The game is capped at a maximum of 15 players and must have more than one player to proceed.
