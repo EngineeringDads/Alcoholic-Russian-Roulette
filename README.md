@@ -1,4 +1,4 @@
-Full project video can be found at: [Insert YT link]
+Full project video can be found at: https://youtu.be/Ek4EhuD-6MM
 
 # :gun: Alcoholic Russian Roulette :cocktail:
 
